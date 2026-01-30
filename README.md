@@ -16,11 +16,11 @@ Dans cette analyse, un retard correspond donc à un vol partant avec minimum 15 
 
 #### Fichiers de données
 
-Raw_Flight_Data.csv : Infos vols (horaires, terminaux, causes de retards)
-Passenger_Flow_Data.csv : Flux passagers (temps d'attente, files)
-Weather_Impact.csv : Météo (visibilité, vent, conditions de piste)
-Ressources.csv : Personnel et équipements (shifts, taux d'utilisation)
-Financial_Transactions.csv : Flux financiers par terminal
+Raw_Flight_Data.csv : Infos vols (horaires, terminaux, causes de retards)  
+Passenger_Flow_Data.csv : Flux passagers (temps d'attente, files)  
+Weather_Impact.csv : Météo (visibilité, vent, conditions de piste)  
+Ressources.csv : Personnel et équipements (shifts, taux d'utilisation)  
+Financial_Transactions.csv : Flux financiers par terminal  
 
 
 #### Méthodologie
