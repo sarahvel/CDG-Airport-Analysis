@@ -1,4 +1,4 @@
-## Projet d’analyse – Aéroport Paris Charles de Gaulle (CDG)
+## Projet d’analyse – Aéroport Paris Charles de Gaulle (CDG) ✈️
 
 #### Contexte
 
