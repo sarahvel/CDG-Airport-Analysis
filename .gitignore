@@ -1,0 +1,17 @@
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+env/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temporaires
+*.log
